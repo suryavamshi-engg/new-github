@@ -1,3 +1,3 @@
 # DEMO
 
-my name is surya vamshi
+my name is surya
